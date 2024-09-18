@@ -1,3 +1,5 @@
+# Adapted from image_classfication.ipynb. Refer the notebook for full code.
+
 # Binary Image Classification (from Scratch)
 
 import numpy as np
