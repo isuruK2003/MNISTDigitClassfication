@@ -55,7 +55,7 @@ def process(true_num):
 
     print("Training the model for", true_num)
 
-    filename = "data/dataset/mnist_train_small.csv"
+    filename = "../data/dataset/mnist_train_small.csv"
     df = pd.read_csv(filename)
 
 
